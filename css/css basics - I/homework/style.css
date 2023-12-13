@@ -1,0 +1,17 @@
+/* universal selector */
+*{
+    background-color: black;
+    color: brown;
+}
+
+/* nested selector 
+CSS nesting allows you to define styles for an element within the context of another selector.
+In this example, the . child class selector is nested within the . parent class selector.*/
+h5{
+    background-color: green;
+}
+
+/* attribute selector */
+[photo="laptop1"] {
+    border: 10px pink solid;    
+}

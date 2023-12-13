@@ -1,0 +1,39 @@
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+  }
+
+#apjpic{
+    padding-left: 100px;
+  }
+h1{
+    padding-right: 350px;
+    font-size: 50px;
+    margin-bottom: 0px;
+    
+}
+
+#year {
+    font-size: 35px;
+    margin-top: 0px;
+    padding-left: 120px;
+    
+}
+
+.intro{
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 0px;
+}
+
+.Biographies{
+    margin-top: 0px;
+    padding-left: 10px;
+    font-size: larger;
+}
+
+#wikipedia:hover{
+background-color: rgb(54, 54, 138);
+}
