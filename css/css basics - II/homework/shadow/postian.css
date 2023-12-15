@@ -1,0 +1,30 @@
+h2{
+   position: relative;
+   top: 2px;
+   left: 90vw;
+}
+
+h2{
+    position: absolute ;
+    top: 2px;
+    left: 95vw;
+ }
+
+ h3{
+    position: absolute ;
+    bottom: 2px;
+    left: 95vw;
+ }
+
+
+ h4{
+    position: absolute ;
+    bottom: 2px;
+    right: 97vw;
+ }
+
+ h5{
+    position: relative;
+    left: 50vw;
+    top: 40vh;
+ }
