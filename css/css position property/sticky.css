@@ -1,0 +1,19 @@
+.main{
+    /* display: inline-block; */
+    height: 5000px;
+    background-color: blueviolet;
+}
+
+#a,#b,#c,#d{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    margin: 5px;
+    border: solid black;
+}
+
+#b{
+    position: sticky;
+    top: 50px;
+    
+}

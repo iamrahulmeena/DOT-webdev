@@ -1,0 +1,15 @@
+.main{
+    display: flex;
+}
+
+#a,#b,#c,#d{
+    width: 200px;
+    margin: 5px;
+    border: solid black;
+}
+
+#b{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+}

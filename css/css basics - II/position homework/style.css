@@ -1,0 +1,32 @@
+.main{
+    display: flex;
+}
+
+#a,#b,#c,#d,#e{
+    width: 200px;
+    margin: 5px;
+    border: solid black;
+}
+
+#b{
+    position: relative;
+    left: 70vw;
+}
+
+#c{
+    position: relative;
+    left: 56vw;
+    top: 90vh;
+}
+
+#d{
+    position: relative;
+    right: 43vw;
+    top: 90vh;
+}
+
+#e{
+    position: relative;
+    right: 15vw;
+    top: 48vh;
+}
