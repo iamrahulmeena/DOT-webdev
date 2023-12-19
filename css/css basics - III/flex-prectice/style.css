@@ -1,0 +1,17 @@
+.main{
+height: 500px;
+border: 1px solid black;
+display: flex;
+flex-wrap: wrap;
+ justify-content: flex-start;
+ justify-content: flex-end;
+ justify-content: center;
+ justify-content: space-around;
+ justify-content: space-between;
+ justify-content: space-evenly;
+}
+
+.box{
+    border: 1px solid red;
+    width: 80px;
+}
